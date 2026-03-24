@@ -1,0 +1,11 @@
+image_id,label,x_min,y_min,x_max,y_max,confidence
+img_001,aphid,10,20,50,60,0.95
+img_001,healthy,100,150,200,250,0.88
+img_001,,300,400,350,450,0.75
+img_002,aphid,50,60,100,120,0.92
+img_002,aphid,50,60,100,120,0.92
+img_002,Aphid,80,90,130,150,0.85
+img_003,healthy,200,300,250,350,0.90
+img_003,invalid_label,400,500,450,550,0.60
+img_004,,10,10,20,20,
+img_004,aphid,50,50,100,100,0.80
