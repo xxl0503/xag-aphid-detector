@@ -1,0 +1,3 @@
+image_id,pest_type,bbox
+DJI_001.JPG,aphid,"[100,200,50,50]"
+DJI_003.JPG,healthy,"[200,400,70,70]"
